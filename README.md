@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**NoeGMena/NoeGMena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills & Technologies:
+Programming Languages: Python, SQL
+Data Analysis & Data Storytelling:
+Visualization Tools: Matplotlib, Seaborn, Power BI, Tableau
+Python Libraries: pandas, numpy, matplotlib, seaborn, scipy
 
-Here are some ideas to get you started:
+🌟 Key Projects:
+Inefficient operators - Telecom Project
+Processing and analysis of user and expert reviews, genres, platforms and historical sales data
+Investor_opportunity_cafe_robot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus:
+I'm currently diving deeper into advanced statistical data analytics techniques, focused on improving data-driven decision-making processes.
+
+📬 Contact Me:
+Email: nmgonzalez94@gmail.com
